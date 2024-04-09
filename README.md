@@ -1,4 +1,4 @@
-### ekslffh's gitHub Page 👋
+### ekslffh's gitHub Page
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekslffh&layout=compact)](https://github.com/ekslffh/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekslffh&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekslffh&show_icons=true)
 
 </div>
 
