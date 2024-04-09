@@ -1,4 +1,4 @@
-### ekslffh's gitHub Page
+### ekslffh's GitHub Page
 
 <div align="center">
 
